@@ -1,5 +1,16 @@
-# Default ignored files
-/shelf/
-/workspace.xml
-# Editor-based HTTP Client requests
-/httpRequests/
+venv/
+.venv/
+env/
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+.idea/
+*.iml
+*.iws
+
+.DS_Store
+Thumbs.db
