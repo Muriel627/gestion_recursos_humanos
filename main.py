@@ -1,16 +1,22 @@
-# This is a sample Python script.
+from python_scripts.data_generator import UniversityDataGenerator
+from python_scripts.db_uploader import upload_to_sql
 
-# Press Mayús+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+def run_pipeline():
+    print("1. Generando datos...")
+    gen = UniversityDataGenerator()
+
+    df_empleados = gen.generate_staff(150)
+    gen.save_to_csv(df_empleados, 'RRHH_Docentes_Raw.csv')
+
+    df_finanzas = gen.generate_budget_transactions(1000)
+    gen.save_to_csv(df_finanzas, 'Finanzas_Presupuesto_Raw.csv')
+
+    upload_to_sql()
+    print("---Proceso finalizado---")
 
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
 
-
-# Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('PyCharm')
+    run_pipeline()
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
