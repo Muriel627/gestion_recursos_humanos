@@ -43,7 +43,7 @@ class UniversityDataGenerator:
     def generate_budget_transactions(self, num_records = 500):
         data = []
         for _ in range(num_records):
-            fecha = fake.date_between(start_date='-2y', end_date='today')
+            fecha = fake.date_between(start_date='-10y', end_date='today')
             tipo_gasto = random.choice(['Nomina', 'Equipamiento', 'Software', 'Mantenimiento', 'Viaticos'])
             # investigacion gasta mas equipamiento
 

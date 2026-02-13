@@ -1,0 +1,156 @@
+ID_Empleado,Nombre,Email,Facultad,Fecha_Contratacion,Sueldo_Base,Categoria
+83810,Albano Llopis Hierro,emiliocalatayud@example.net,Ingenieria,2025-05-23,6320.08,Adjunto
+11395,Ileana Antón-Andrés,giljoan@example.net,Economia,2016-07-25,2065.1,Titular
+73563,Pepito Rivas,vidallobo@example.org,Medicina,2018-10-31,-4784.81,Adjunto
+91506,Evita Lobo Cortés,maria-carmennavarro@example.org,Economia,2017-09-10,4226.88,Auxiliar
+49797,Gastón Núñez Lamas,segoviabrunilda@example.org,Ingenieria,2022-07-22,6432.25,Invitado
+10328,Emilia del Fernandez,arroyogisela@example.org,Medicina,2021-01-14,2899.54,Titular
+10458,Toribio de Pinto,wilfredo52@example.com,Ingenieria,2022-02-27,3833.37,Auxiliar
+27460,Pascual Bellido-Donoso,fernandosevilla@example.com,Artes,2020-09-15,4985.48,Invitado
+83886,Constanza del Barba,pacaanton@example.com,Derecho,2022-12-09,6891.13,Auxiliar
+35093,Curro Miranda Garcia,ppriego@example.com,Ingenieria,2018-07-18,1797.86,Auxiliar
+34718,Duilio Jódar Romero,oparedes@example.org,Medicina,2024-10-13,7132.14,Invitado
+64686,René Arévalo Canals,eulaliacuesta@example.net,Derecho,2023-04-19,2557.25,Auxiliar
+78172,Guadalupe Pizarro Solé,carolina01@example.net,Ingenieria,2025-04-01,5459.35,Adjunto
+98419,Rodrigo Nieto-Cantón,trinidad27@example.org,Artes,2020-08-05,3254.66,Adjunto
+65612,José Luis Camino Martín,ezequielpereira@example.org,Ingenieria,2025-04-16,2988.81,Auxiliar
+69514,Marcelino Morante Torres,caparrosursula@example.com,Ingenieria,2021-05-06,2871.39,Auxiliar
+31385,Dionisio Bermúdez Boada,wbayon@example.net,Artes,2018-04-03,4071.61,Invitado
+16828,Malena Dalmau Landa,igalan@example.net,Medicina,2019-07-15,3103.08,Auxiliar
+93447,Heraclio Nico Perea Ríos,pcarrillo@example.org,Artes,2017-03-15,7335.85,Adjunto
+44313,Macario Grau Giménez,beldalaura@example.net,Medicina,2017-02-11,4811.92,Titular
+30007,Víctor Angulo Murillo,vilaplanajordan@example.com,Medicina,2024-05-16,5578.4,Invitado
+28080,Benigna del Herrero,mramirez@example.org,Artes,2017-10-06,3980.53,Auxiliar
+86374,Felicidad Roda Reig,rbalaguer@example.net,Ingenieria,2017-10-15,5921.84,Auxiliar
+7944,Pascuala Nicolau Canales,gregoriofalcon@example.net,Derecho,2023-09-30,2225.09,Invitado
+18373,Casandra Lopez Sevillano,sandrabenet@example.com,,2025-06-23,6193.6,Adjunto
+12833,Máximo Alcolea Bueno,flavioramos@example.com,Ingenieria,2024-04-21,7158.37,Adjunto
+28016,Yaiza Barral Cózar,yabril@example.com,Medicina,2023-11-09,5005.96,Titular
+37388,Obdulia Torrecilla Cortina,manugelabert@example.org,Artes,2025-12-19,1626.6,Auxiliar
+96434,Ana del Barceló,tapiaani@example.net,Medicina,2018-10-17,7207.06,Titular
+7455,Anita Estevez,bayoimelda@example.org,Ingenieria,2022-12-25,7856.9,Adjunto
+15713,Delia Ariño-Bilbao,uyanez@example.com,Artes,2019-08-04,7654.52,Invitado
+87782,Dafne Lara Priego,hildamarin@example.com,Economia,2021-06-29,6409.22,Auxiliar
+98548,Adalberto Sedano Cabo,garcesantonia@example.com,Derecho,2018-05-15,4347.65,Titular
+45745,Valerio Hidalgo Peiró,fausto78@example.net,Ingenieria,2021-04-05,3697.56,Adjunto
+80173,Adelia Marí,canizaresjuan-luis@example.org,Ingenieria,2017-12-08,1961.46,Adjunto
+97310,Calixta del Luján,liliananovoa@example.org,Ingenieria,2020-08-09,7087.63,Adjunto
+66244,Dionisia Azcona Bru,clloret@example.org,Artes,2021-10-15,2892.54,Invitado
+17146,Cecilio Sala-Roma,caparroscarlos@example.net,Artes,2018-08-26,6748.73,Titular
+71511,Silvestre Peiró Colomer,ccastell@example.com,Derecho,2022-04-26,4253.26,Titular
+5229,Clementina Iborra Calderon,melisa86@example.net,Ingenieria,2018-09-29,1893.98,Titular
+31029,Salomón Elorza Revilla,escobarmaite@example.com,Medicina,2023-02-13,4985.86,Adjunto
+87806,Eliseo de Campoy,earias@example.org,Medicina,2019-07-06,7184.16,Titular
+60332,Encarnación Goñi Gisbert,ferrandosabas@example.com,Economia,2020-11-08,6934.18,Adjunto
+9099,Gabino Vergara-Pulido,amaro14@example.org,Artes,2025-12-28,4628.83,Titular
+34795,Baltasar Rovira Ojeda,tristan98@example.org,Ingenieria,2022-09-01,7904.51,Invitado
+75574,Edu Arregui,habellan@example.net,Economia,2019-06-20,5802.16,Adjunto
+47739,Anastasia Murillo Mir,masanunciacion@example.com,Ingenieria,2023-01-23,5264.67,Auxiliar
+42753,Obdulia Marqués Castejón,sosimopinilla@example.net,Economia,2019-01-28,4599.13,Adjunto
+80676,Encarna Ramis-Abad,luciano36@example.net,Economia,2021-08-06,2020.72,Titular
+60946,Isaura García Vicente,qdomenech@example.org,Medicina,2020-12-10,4124.54,Adjunto
+67561,Eva María Araceli Gutierrez Menéndez,noeliaflor@example.org,Ingenieria,2016-07-12,5525.98,Auxiliar
+6057,Jordán de Sarabia,tferreras@example.net,Medicina,2022-08-24,5853.22,Auxiliar
+64799,Daniela Coloma Adán,rodriguezisidoro@example.org,Derecho,2024-12-04,4471.96,Titular
+60889,León Ibañez Carrión,zcanellas@example.com,,2025-02-24,5537.54,Titular
+73259,Ester Priscila Salas Vargas,ksalmeron@example.net,Medicina,2024-03-10,4788.25,Auxiliar
+58991,Remigio Huertas-Lluch,rharo@example.com,Medicina,2017-06-07,3901.93,Auxiliar
+93525,Desiderio Elías Narváez Montenegro,chaconeutropio@example.org,Economia,2022-08-19,1550.85,Auxiliar
+90957,Patricio Gargallo Baró,vramon@example.net,Ingenieria,2024-01-16,7603.05,Titular
+54496,Cristian Rivera Porras,pintoralbina@example.org,Economia,2022-02-05,2510.41,Adjunto
+39139,Tamara Rius Giménez,rgimenez@example.com,Medicina,2024-05-17,5968.73,Invitado
+3804,Evangelina Quiroga Dalmau,ncastell@example.net,Ingenieria,2016-07-28,2099.94,Auxiliar
+51645,Marcela Amores-Blanes,dcerda@example.org,,2016-12-20,3668.12,Auxiliar
+34099,Eugenia Galán Sanz,nicolas64@example.com,Artes,2020-05-28,5085.92,Titular
+10735,Agustina Azorin Olmo,florentinabayona@example.net,Medicina,2016-10-19,5046.34,Adjunto
+98858,Duilio Flores Almagro,jorgecases@example.com,Ingenieria,2018-01-22,3503.68,Titular
+73920,Joan Jaén,florencio99@example.net,Medicina,2018-01-23,5933.43,Auxiliar
+21465,Baltasar Luis Miguel Amigó Mesa,tpuente@example.org,Artes,2017-05-29,7829.94,Adjunto
+77607,Aurelio del Carrillo,oliveraberta@example.com,Medicina,2022-06-02,-7229.21,Auxiliar
+9038,Miriam Nogueira,riverapacifica@example.com,Artes,2017-11-28,6714.53,Adjunto
+56822,Mercedes Segura Coronado,uecheverria@example.net,Ingenieria,2020-09-16,3986.52,Invitado
+80728,Remedios del Sola,uledesma@example.org,Artes,2017-08-03,3772.78,Adjunto
+36559,Daniela Sobrino Pinilla,ambrosio75@example.org,Medicina,2024-05-29,4090.03,Titular
+27802,Rosalva Jordán Niño,silvia94@example.net,Derecho,2016-04-15,3782.45,Auxiliar
+67715,Aristides Hernández,jtorres@example.org,Ingenieria,2024-03-19,7200.75,Auxiliar
+84659,Jacinta Alemany Buendía,ismael63@example.com,,2026-01-03,5377.71,Auxiliar
+48368,Manola Núñez Roig,pastor74@example.com,Economia,2020-05-23,2251.7,Adjunto
+30217,Poncio Fernández Moles,estevegregorio@example.org,Artes,2024-05-08,1510.99,Adjunto
+36241,Pía Zamorano-Luna,ferreramanu@example.org,Ingenieria,2022-04-03,7667.68,Auxiliar
+23519,Adrián Paulino Castañeda Lledó,ballestercarolina@example.com,Ingenieria,2018-04-06,6178.4,Auxiliar
+83606,Aroa Alberola Luís,ctejero@example.com,Derecho,2019-04-02,4115.6,Adjunto
+6734,Tomás Tejedor-Carbonell,perezamparo@example.org,Artes,2025-12-06,5902.57,Auxiliar
+82502,Carlos Company Mateu,hurtadodiego@example.net,Ingenieria,2023-03-13,3475.19,Auxiliar
+79471,Rosa María Pilar Gonzalez Yáñez,csanjuan@example.com,Artes,2023-05-30,5891.58,Adjunto
+40026,María Teresa Barrena-Cabezas,eufemiagalvan@example.com,Derecho,2017-06-30,4850.44,Auxiliar
+20585,Chema de Crespi,realvirgilio@example.net,Medicina,2024-02-09,5873.17,Adjunto
+38175,David Maldonado Luna,rbelda@example.org,Ingenieria,2020-08-12,3091.48,Titular
+81927,Nadia Figuerola-Rodríguez,gomilaflora@example.org,Economia,2020-08-19,2763.83,Invitado
+18643,Amor Daza Meléndez,valentin17@example.net,Medicina,2021-04-15,-5764.38,Titular
+91715,Elena Vall Uribe,mbernat@example.org,Medicina,2023-06-19,2643.26,Invitado
+96276,María Del Carmen Ibáñez Amigó,granadosileana@example.net,Medicina,2026-02-07,7463.56,Adjunto
+2719,Luis Arjona-Díez,pvillena@example.com,Economia,2020-11-05,7921.3,Invitado
+23788,Isa Téllez-Bou,aoliveras@example.com,Economia,2021-07-29,4273.81,Invitado
+87835,Timoteo Cuevas Murcia,svalbuena@example.net,Artes,2022-12-05,4425.45,Auxiliar
+99680,Alicia del Borja,jose-antonio51@example.com,Economia,2024-11-13,4649.88,Invitado
+150,Joaquina del Ballester,aurapardo@example.net,Derecho,2024-08-05,3024.21,Titular
+81973,Pía Aznar Frutos,carmela24@example.com,Medicina,2024-05-11,3989.73,Adjunto
+15915,Maxi Heras Cuadrado,carmen08@example.com,Artes,2017-09-13,3650.73,Titular
+29451,Jerónimo Carpio Correa,gmanzanares@example.net,Artes,2020-10-07,4031.6,Titular
+54459,Jovita Hervás Saura,rodolfofarre@example.net,Economia,2024-10-05,-3972.48,Auxiliar
+97818,Toni Baños Llorente,ynieto@example.net,Artes,2020-08-29,7047.41,Invitado
+336,Primitivo Eustaquio Tovar Comas,wtome@example.com,Economia,2025-07-03,6699.14,Invitado
+99991,Florinda del Montserrat,joseharo@example.net,Artes,2022-08-18,4656.67,Invitado
+30613,Amada Monreal Suárez,qpolo@example.net,Artes,2018-09-14,7477.02,Titular
+64923,Bernardino Vallés Mármol,sacristancornelio@example.net,Economia,2023-11-21,-5168.55,Invitado
+2011,Hernando Cortes Benavides,vlanda@example.net,Artes,2022-11-16,2681.24,Auxiliar
+85175,Teodosio Moya Pinto,eugenia78@example.org,Derecho,2017-04-12,3693.75,Auxiliar
+30771,Danilo Raúl Botella Roura,cabreravicente@example.org,Artes,2021-03-17,3139.76,Titular
+3794,Fermín Barba Marcos,reinaldo62@example.org,Ingenieria,2025-02-24,7999.4,Titular
+54008,Nilda Escolano-Domínguez,cayetanopineiro@example.net,Ingenieria,2020-03-18,6402.52,Adjunto
+65230,Bienvenida Guerra-Serra,angel40@example.com,Economia,2021-01-03,2490.49,Titular
+88815,Camila de Sala,diana46@example.net,Medicina,2020-05-15,4522.72,Auxiliar
+59878,Conrado Gregorio Tomas Campillo,ricopalomar@example.net,Economia,2021-02-23,7764.28,Adjunto
+91655,Aitor Severino Priego Llobet,avilesvisitacion@example.net,Ingenieria,2024-07-25,5261.45,Invitado
+37512,Marcio del Gilabert,estelaiglesia@example.net,Medicina,2018-06-10,1993.98,Adjunto
+82345,Vito Ariza Mendizábal,laragones@example.com,Derecho,2018-05-08,7026.91,Titular
+11813,Fernando Raúl Ribes Echevarría,eligiopaz@example.net,Economia,2024-08-26,6587.13,Invitado
+35720,Eduardo Tirado Marquez,nilda17@example.org,Ingenieria,2018-07-05,4788.75,Invitado
+98848,Tito del Paz,pratalberto@example.com,Ingenieria,2025-03-30,4317.9,Invitado
+16199,Flor Juárez Piquer,candido37@example.org,Artes,2025-08-31,2644.89,Auxiliar
+42992,Consuela Miriam Barroso Simó,florencia61@example.org,Economia,2016-11-19,6535.17,Auxiliar
+4877,Jose Manuel Bautista Cabanillas Guitart,romansantiago@example.com,Medicina,2025-04-21,6899.75,Invitado
+54935,Perlita Cortes-Ribera,tovarencarnacion@example.com,Artes,2020-11-15,5204.02,Auxiliar
+4288,Concha Salcedo Sales,ritapareja@example.org,,2022-05-13,7031.19,Adjunto
+71364,Ana Puig Llorente,donatosanz@example.org,Derecho,2019-09-21,3712.2,Auxiliar
+84109,Ainara Amarilis Múgica Hervia,miriamfuertes@example.org,Economia,2025-07-17,7662.41,Invitado
+27152,Concepción Guijarro-Moya,modestaacedo@example.com,Medicina,2018-07-30,5988.96,Invitado
+17038,Dionisia de Canet,catalaalbino@example.com,Ingenieria,2020-02-29,2104.85,Adjunto
+77182,Adriana Dávila Lara,castanedamanuela@example.com,Economia,2025-01-23,3898.63,Auxiliar
+14896,Jordán Sanabria Paredes,sansanita@example.org,Economia,2016-11-07,3650.14,Auxiliar
+95321,Encarna Sedano,barreraalejandra@example.com,Medicina,2023-05-14,2284.26,Titular
+89928,Jose Luis Salcedo Beltrán,montserratema@example.org,Medicina,2017-03-26,2745.02,Auxiliar
+16540,Mateo Morcillo-Piquer,wilfredo89@example.com,Economia,2017-10-20,5379.14,Adjunto
+91983,Teodosio Garrido Ropero,agracia@example.com,Derecho,2023-10-30,-2666.37,Adjunto
+52262,Pastora Bustamante Milla,qmilla@example.com,Ingenieria,2022-06-25,5096.83,Adjunto
+20006,Anabel Bou Blázquez,rosalesclemente@example.net,Artes,2022-06-15,-2166.82,Auxiliar
+17054,América del Carvajal,qotero@example.com,Artes,2016-12-27,3714.59,Auxiliar
+37700,Esperanza Feliciana Calleja Vera,fabiantoledo@example.org,Artes,2017-12-15,2241.57,Invitado
+45890,Flor de Lopez,noemiromeu@example.net,Ingenieria,2025-08-02,2486.23,Auxiliar
+3441,Áurea Máxima Lastra Andres,leandromendizabal@example.com,Medicina,2022-02-01,2269.94,Adjunto
+800,Trinidad Clemente Pérez,cifuentesmanu@example.net,Artes,2016-08-20,4428.34,Invitado
+12026,Concepción Peñalver,vsantiago@example.org,Economia,2022-05-30,1891.5,Titular
+40846,Renata Blazquez Badía,faustoayala@example.net,Medicina,2017-07-02,5565.85,Titular
+35665,Nadia Rodrigo Torralba,rribas@example.org,Medicina,2024-10-30,5087.95,Invitado
+14918,Irene Cantero Luque,qaguila@example.com,Economia,2016-11-20,4554.43,Auxiliar
+28903,María Belén Ballesteros Aguilera,marcialgalvan@example.org,Artes,2020-06-17,1962.67,Auxiliar
+37938,Azeneth Aguilera Valencia,iechevarria@example.com,Economia,2025-03-05,5797.69,Invitado
+92231,Josué del Bello,barnal@example.org,Medicina,2023-12-08,5709.63,Adjunto
+10205,Maricela Román Quiroga,hmancebo@example.com,Medicina,2016-06-20,6652.09,Auxiliar
+42568,Salvador Seguí Paredes,ruedarafaela@example.org,Artes,2020-04-02,5976.41,Auxiliar
+57104,Gracia Zamora-Bermúdez,vmenendez@example.com,Artes,2019-11-19,4345.43,Invitado
+28016,Yaiza Barral Cózar,yabril@example.com,Medicina,2023-11-09,5005.96,Titular
+27152,Concepción Guijarro-Moya,modestaacedo@example.com,Medicina,2018-07-30,5988.96,Invitado
+4288,Concha Salcedo Sales,ritapareja@example.org,,2022-05-13,7031.19,Adjunto
+16199,Flor Juárez Piquer,candido37@example.org,Artes,2025-08-31,2644.89,Auxiliar
+80173,Adelia Marí,canizaresjuan-luis@example.org,Ingenieria,2017-12-08,1961.46,Adjunto

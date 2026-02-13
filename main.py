@@ -8,7 +8,7 @@ def run_pipeline():
     df_empleados = gen.generate_staff(150)
     gen.save_to_csv(df_empleados, 'RRHH_Docentes_Raw.csv')
 
-    df_finanzas = gen.generate_budget_transactions(1000)
+    df_finanzas = gen.generate_budget_transactions(2000)
     gen.save_to_csv(df_finanzas, 'Finanzas_Presupuesto_Raw.csv')
 
     upload_to_sql()
